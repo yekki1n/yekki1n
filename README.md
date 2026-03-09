@@ -1,8 +1,11 @@
-<div align="center">
+<table>
+<tr>
+<td valign="middle" width="200">
+<img src="https://i.pinimg.com/736x/4f/1d/d9/4f1dd9034918aa62c9849a3d6312bbfa.jpg" width="180" style="border-radius:12px"/>
+</td>
+<td valign="middle">
 
 # Xin chào, mình là Yekki. Chúc bạn một ngày tốt lành.
-
----
 
 *Hello • こんにちは • 안녕하세요 • 你好 • Bonjour • Hallo • Hola • Olá*
 
@@ -10,18 +13,9 @@
 
 *Ahoy • 01001000 01101001 • Elen síla lúmenn' • .... . .-.. .-.. ---*
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://i.pinimg.com/736x/4f/1d/d9/4f1dd9034918aa62c9849a3d6312bbfa.jpg" width="23%"/>
-<img src="https://i.pinimg.com/1200x/04/b4/05/04b40576921b0ab744c3d03e1ed8b0b8.jpg" width="23%"/>
-<img src="https://i.pinimg.com/1200x/9c/d9/2c/9cd92cfd879cad2e36eb82be60793005.jpg" width="23%"/>
-<img src="https://i.pinimg.com/736x/27/f7/46/27f746ae890de6dd36362d37e0788dea.jpg" width="23%"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
