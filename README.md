@@ -110,9 +110,9 @@
 
 <div align="center">
 
-![Yekki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yekki1n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFFFFF)
+![Yekki's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=yekki1n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yekki1n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yekki1n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yekki1n&theme=radical&hide_border=true&background=0D1117&stroke=FF6E96&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96)
 
