@@ -110,11 +110,11 @@
 
 <div align="center">
 
-![Yekki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yekki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFFFFF)
+![Yekki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yekki1n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yekki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yekki1n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yekki&theme=radical&hide_border=true&background=0D1117&stroke=FF6E96&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yekki1n&theme=radical&hide_border=true&background=0D1117&stroke=FF6E96&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96)
 
 </div>
 
@@ -122,11 +122,11 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yekki)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yekki1n)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yekki@example.com)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Yekki.Yekki)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yekki1n.yekki1n)
 
 </div>
