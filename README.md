@@ -14,6 +14,17 @@
 
 ---
 
+<div align="center">
+
+<img src="https://i.pinimg.com/736x/4f/1d/d9/4f1dd9034918aa62c9849a3d6312bbfa.jpg" width="23%"/>
+<img src="https://i.pinimg.com/1200x/04/b4/05/04b40576921b0ab744c3d03e1ed8b0b8.jpg" width="23%"/>
+<img src="https://i.pinimg.com/1200x/9c/d9/2c/9cd92cfd879cad2e36eb82be60793005.jpg" width="23%"/>
+<img src="https://i.pinimg.com/736x/27/f7/46/27f746ae890de6dd36362d37e0788dea.jpg" width="23%"/>
+
+</div>
+
+---
+
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -123,9 +134,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yekki1n)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yekki1.n)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/yekki1.n)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacknolit.id@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yekki@example.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yekki1n.yekki1n)
 
