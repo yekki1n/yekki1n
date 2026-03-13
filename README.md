@@ -5,7 +5,7 @@
 </td>
 <td valign="middle">
 
-<span style="color: red">I'm Yekki.</span>
+# I'm  Yekki
 
 <!-- *Hello • こんにちは • 안녕하세요 • 你好 • Bonjour • Hallo • Hola • Olá*
 
