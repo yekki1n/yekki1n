@@ -5,7 +5,7 @@
 </td>
 <td valign="middle">
 
-# Xin chào, mình là Yekki. Chúc bạn một ngày tốt lành.
+<span style="color: red">I'm Yekki.</span>
 
 <!-- *Hello • こんにちは • 안녕하세요 • 你好 • Bonjour • Hallo • Hola • Olá*
 
@@ -109,7 +109,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) -->
 
----
+<!-- ---
 
 ## Stats
 
@@ -121,7 +121,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yekki1n&theme=radical&hide_border=true&background=0D1117&stroke=FF6E96&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96)
 
-</div>
+</div> -->
 
 ---
 
