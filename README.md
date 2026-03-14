@@ -3,15 +3,9 @@
 <td valign="middle" width="200">
 <img src="https://i.pinimg.com/736x/4f/1d/d9/4f1dd9034918aa62c9849a3d6312bbfa.jpg" width="180" style="border-radius:12px"/>
 </td>
-<td valign="middle">
+<td valign="middle" width="900">
 
-# I'm  Yekki
-
-<!-- *Hello • こんにちは • 안녕하세요 • 你好 • Bonjour • Hallo • Hola • Olá*
-
-*Привет • नमस्ते • مرحباً • สวัสดี • Halo • Ciao • Cześć • Merhaba*
-
-*Ahoy • 01001000 01101001 • Elen síla lúmenn' • .... . .-.. .-.. ---* -->
+# I'm Yekki
 
 </td>
 </tr>
