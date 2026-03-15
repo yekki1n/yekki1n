@@ -1,15 +1,7 @@
-<table>
-<tr>
-<td valign="middle" width="200">
-<img src="https://i.pinimg.com/736x/4f/1d/d9/4f1dd9034918aa62c9849a3d6312bbfa.jpg" width="180" style="border-radius:12px"/>
-</td>
-<td valign="middle" width="900">
 
-# I'm Yekki
+<img src="https://i.pinimg.com/736x/c9/82/c3/c982c3c09b6e8bb245b7acdd23d76654.jpg" width="180" style="border-radius:12px"/>
 
-</td>
-</tr>
-</table>
+# 👋 Hi, I'm Yekki
 
 ---
 
